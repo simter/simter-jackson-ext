@@ -1,5 +1,7 @@
 # simter-jackson-ext
 
+**This module was deprecated, please use [simter-jackson-javatime](https://github.com/simter/simter-jackson-javatime) instead.**
+
 A brand new [Jackson Java 8 Date & Time] serialization and deserialization module with global localize config.
 
 [Jackson standard JavaTimeModule] has a standard [ISO-8601] format default, and it can not be config to another 
